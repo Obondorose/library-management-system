@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1734509403 source:c:\users\admin\onedrive\desktop\librarymanagementsystfinal\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<algorithm>
+
